@@ -1,0 +1,23 @@
+.for {
+    text-align: center;
+    background-color: bisque;
+    margin: 300px;
+    border: rgb(187, 129, 54);
+    width: auto;
+    margin-top: 150px;
+}
+
+.data {
+    color: rgb(177, 100, 100);
+    text-align: center;
+}
+
+.src {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.cfrm {
+    margin-right: auto;
+    float: unset;
+}
